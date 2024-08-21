@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Samsung S23",
+    "price": 79999,
+    "description": "samsung s23 mobile comes up with powerfull snapdragon 7 Gen Processor",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Samsung S23 Ultra",
+    "price": 115499,
+    "description": "samsung s23 Ultra mobile. Next level camers with 100x zoom.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 10
+  },
+  {
+    "name": "Samsung S24",
+    "price": 89999,
+    "description": "samsung s24 mobile comes up with AI integration with cool features",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "Samsung S24 Ultra",
+    "price": 129599,
+    "description": "samsung s24 mobile with Processor-snapdragon 8 Gen and AI makes it more powerfull smart phone.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 2
+  },
+  {
+    "name": "Samsung Z Fold",
+    "price": 159000,
+    "description": "samsung Z Fold mobile a smartphone with next level design make your screen bigger with fold ",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 3
+  },
+  {
+    "name": "Samsung Flip",
+    "price": 159000,
+    "description": "samsung Flip mobile with AI gives you an awasome experience with stylish looking design",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 4
+  }
+]
